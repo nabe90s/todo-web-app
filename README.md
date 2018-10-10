@@ -13,9 +13,9 @@ Kotlin, SpringBoot
 ## URL設計
 メソッド | API | 役割
  --- | --- | ---
- GET | /todo/tasks |　タスクを全件取得
- POST | /todo/tasks |　タスクを一件作成
- GET | /todo/tasks/{id} |　タスクを一件表示
- PUT | /todo/tasks/{id} |　タスクを一件更新
- DELETE | /todo/tasks/{id} | タスクを一件削除
+ GET | /todo/tasks |タスクを全件取得
+ POST | /todo/tasks |タスクを一件作成
+ GET | /todo/tasks/{id} |タスクを一件表示
+ PUT | /todo/tasks/{id} |タスクを一件更新
+ DELETE | /todo/tasks/{id} |タスクを一件削除
  
